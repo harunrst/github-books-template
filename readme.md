@@ -9,7 +9,7 @@ Welcome to **GitHub Books**!
 - Keep your entire engineering portfolio in the same place: **GitHub**
 - Easily navigate within a book
 
-See the very first GitHub book to be inspired: [Essentials of Being a Software Engineer](link)
+See the very first GitHub book to be inspired: <a href="https://github.com/harunrst/Essentials-of-Being-a-Software-Engineer" target="_blank">Essentials of Being a Software Engineer →</a>
 
 ## Tips
 
