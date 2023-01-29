@@ -8,9 +8,11 @@
 
 - _contributor_
 
+[**Go to contribute →**](common/contributions.md)
+
 ---
 
-## About
+## About the author as of ddth of month, yyyy
 
 _about_
 
