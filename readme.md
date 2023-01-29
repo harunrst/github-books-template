@@ -1,13 +1,16 @@
-## Github Books
+## GitHub Books
 
-This is a concept to encourage anyone to share their knowledge comfortably. **Github books** is to help you have your entire portfolio in the same place.
+Welcome to **GitHub Books**!
 
-Let's be honest, it is hard, tiring and costly to publish a physical book. You wouldn't even know how to start this journey.
+**GitHub Books** is an open-source book concept. I know that all engineers are an author inside but don't know where to start. Here is a chance for you to give it a try! You don't even have to publish on your own. **GitHub Books** eases everything for you!
 
-Github books provides you with a very simple template. Use this repository as a template for your book and start it right away!
+- Contribute the books of others
+- Publish a new edition within minutes
+- Keep your entire engineering portfolio in the same place: **GitHub**
+- Easily navigate within a book
 
-## Concept
+See the very first GitHub book to be inspired: [Essentials of Being a Software Engineer](link)
 
-it doesnt have to be big
-let them contribute
-share it/ edit it. you dont have to waste money to publish a new edition.
+## Tips
+
+-coming soon-
