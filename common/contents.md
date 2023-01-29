@@ -8,6 +8,8 @@
 2. [**Content 2**](../contents/your_path_2.md)
 3. [**Content n**](../contents/your_path_n.md)
 
+[**Contributions**](contributions.md)
+
 [**Quotes**](quotes.md)
 
 [**Glossary**](glossary.md)
