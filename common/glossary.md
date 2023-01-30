@@ -2,7 +2,6 @@
 
 # Glossary
 
-| Term   | Description        |
-| ------ | ------------------ |
-| Book   | Book description   |
-| Github | Github description |
+| Term   | Description   |
+| ------ | ------------- |
+| _term_ | _description_ |

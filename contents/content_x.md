@@ -4,8 +4,8 @@
 
 _Put your content here_
 
-## Contribution 1
+## Contribution x
 
 🌍 Please contribute here, I need your input!
 
-[**Continue to "content 2" →**](your_path_2.md)
+[**Continue to "content y" →**](content_y.md)

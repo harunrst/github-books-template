@@ -4,9 +4,8 @@
 
 [**Introduction**](introduction.md)
 
-1. [**Content 1**](../contents/your_path_1.md)
-2. [**Content 2**](../contents/your_path_2.md)
-3. [**Content n**](../contents/your_path_n.md)
+1. [**Content x**](../contents/content_x.md)
+2. [**Content y**](../contents/content_y.md)
 
 [**Contributions**](contributions.md)
 

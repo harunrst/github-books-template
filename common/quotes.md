@@ -2,6 +2,4 @@
 
 # Quotes
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. -_lorem ipsum_
-
-> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s -_lorem ipsum_
+> Put a quote here -_owner_

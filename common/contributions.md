@@ -4,8 +4,8 @@
 
 ## Author's Suggestions
 
-- ex: Please follow my patterns.
+- _Put your suggestions here_
 
 ## Contribution Parts
 
-1. [**Contribution 1 →**](../contents/your_path_1.md#contribution-1)
+1. [**Contribution x →**](../contents/content_x.md#contribution-x)
