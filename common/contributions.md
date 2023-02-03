@@ -9,3 +9,5 @@
 ## Contribution Parts
 
 1. [**Contribution x →**](../contents/content_x.md#contribution-x)
+
+[**Continue to Quotes →**](quotes.md)
