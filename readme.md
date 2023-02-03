@@ -12,6 +12,8 @@ Welcome to **GitHub Books**!
 
 See the very first GitHub book to be inspired: <a href="https://github.com/harunrst/Essentials-of-Being-a-Software-Engineer-preview" target="_blank">Essentials of Being a Software Engineer →</a>
 
+See entry.md for better of the template: [Entry](entry.md)
+
 ## How to
 
 1. Create your book repository from this template
