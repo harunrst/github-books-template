@@ -27,3 +27,4 @@ See the very first GitHub book to be inspired: <a href="https://github.com/harun
 4. Add 🌎 emoji on contribution points to highlight them.
 5. Add github-books and book as topics to your repository to be more visible.
 6. Disable packages and environments sections from your home page. They are unnecessary distractions.
+7. Any contribution and feedback are welcome! Share your experiences :) 
