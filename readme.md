@@ -10,7 +10,7 @@ Welcome to **GitHub Books**!
 - Easily navigate within a book
 - Keep your entire engineering portfolio in the same place: **GitHub**
 
-See the very first GitHub book to be inspired: <a href="https://github.com/harunrst/Essentials-of-Being-a-Software-Engineer-preview" target="_blank">Essentials of Being a Software Engineer →</a>
+See the very first GitHub book to be inspired: <a href="https://github.com/harunrst/Essentials-of-Being-a-Software-Engineer" target="_blank">Essentials of Being a Software Engineer →</a>
 
 See entry.md for better of the template: [Entry](entry.md)
 
@@ -29,4 +29,4 @@ See entry.md for better of the template: [Entry](entry.md)
 4. Add 🌎 emoji on contribution points to highlight them.
 5. Add github-books and book as topics to your repository to be more visible.
 6. Disable packages and environments sections from your home page. They are unnecessary distractions.
-7. Any contribution and feedback are welcome! Share your experiences :) 
+7. Any contribution and feedback are welcome! Share your experiences :)
