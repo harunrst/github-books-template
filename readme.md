@@ -1,3 +1,5 @@
+<p id="reading-time-action-id" align="left">2 min read</p>
+
 # GitHub Books
 
 Welcome to **GitHub Books**!
